@@ -10,4 +10,5 @@ A memory game using REACT JS.
 * add "homepage" : to package.json
 * npm install --save gh-pages (github pages)
 * add "predeploy" and "deploy" to "scripts"
+
 * set up and save as source gh-pages branch
